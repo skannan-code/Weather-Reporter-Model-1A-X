@@ -1,4 +1,4 @@
-Welcome future meteorologists! Recently, I was expirementing with the weather logged from years ago when I came upon a sudden discovery. Weather reporting!
+ # Welcome future meteorologists! Recently, I was expirementing with the weather logged from years ago when I came upon a sudden discovery. Weather reporting!☀️
 
 # The Creation of WeatherReporter Model 1A X🌦️
 I quickly got to work and started creating WeatherReporter Model 1A X, a web-application that allows users to view past weather reports ranging from now to almost 20 years ago!
