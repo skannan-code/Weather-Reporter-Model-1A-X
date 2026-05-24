@@ -102,7 +102,7 @@ async function retrieveData(lat, lon, start, end) {
     let promise = await fetch(url, {
         headers: {
             "x-rapidapi-host": "meteostat.p.rapidapi.com",
-            "x-rapidapi-key": "04d929c8cdmsh07f244e6450b8bdp1536eajsnf2c5fc3d5afa"
+            "x-rapidapi-key": MY_API_KEY
         }
     });
 
